@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Macartan
-middle_name: R.
-last_name: Humphreys
-email: macartan.humphreys@wzb.eu
+first_name: Abigail
+middle_name: 
+last_name: Peña Alejos
+email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Macartan's New Page
 footer_text: >
@@ -266,7 +266,7 @@ more_authors_animation_delay: 10  # more authors are revealed on click using ani
 # -----------------------------------------------------------------------------
 
 imagemagick:
-  enabled: true # enables responsive images for your site (recomended, see https://github.com/alshedivat/al-folio/issues/537)
+  enabled: false # enables responsive images for your site (recomended, see https://github.com/alshedivat/al-folio/issues/537)
   widths:
     - 480
     - 800
